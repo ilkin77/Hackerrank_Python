@@ -24,5 +24,5 @@ String Validators -> https://www.hackerrank.com/challenges/string-validators/pro
 
 Write a function -> https://www.hackerrank.com/challenges/write-a-function/problem
 
-
+List Comprehensions  -> https://www.hackerrank.com/challenges/list-comprehensions/problem
 
