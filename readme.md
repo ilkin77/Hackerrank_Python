@@ -26,3 +26,6 @@ Write a function -> https://www.hackerrank.com/challenges/write-a-function/probl
 
 List Comprehensions  -> https://www.hackerrank.com/challenges/list-comprehensions/problem
 
+Find the Runner-Up Score! -> https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?h_r=profile
+
+
