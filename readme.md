@@ -28,4 +28,18 @@ List Comprehensions  -> https://www.hackerrank.com/challenges/list-comprehension
 
 Find the Runner-Up Score! -> https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?h_r=profile
 
+Nested Lists -> https://www.hackerrank.com/challenges/nested-list/problem
+
+Finding the percentage -> https://www.hackerrank.com/challenges/finding-the-percentage/problem
+
+Eye and Identity -> https://www.hackerrank.com/challenges/np-eye-and-identity/problem?h_r=next-challenge&h_v=zen
+
+Array Mathematics -> https://www.hackerrank.com/challenges/np-array-mathematics/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+
+Floor, Ceil and Rint -> https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+
+
+
+
+
 
