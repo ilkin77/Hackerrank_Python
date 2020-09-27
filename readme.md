@@ -38,6 +38,15 @@ Array Mathematics -> https://www.hackerrank.com/challenges/np-array-mathematics/
 
 Floor, Ceil and Rint -> https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
 
+Lists  -> https://www.hackerrank.com/challenges/python-lists/problem
+
+Tuples  -> https://www.hackerrank.com/challenges/python-tuples/problem?h_r=next-challenge&h_v=zen
+
+Integers Come In All Sizes -> https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+
+Triangle Quest  -> https://www.hackerrank.com/challenges/python-quest-1/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+
+
 
 
 
